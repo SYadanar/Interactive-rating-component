@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [URL here](https://github.com/SYadanar/Interactive-rating-component)
+- Solution URL: [URL here](https://www.frontendmentor.io/solutions/interactive-rating-component-using-pure-html-css-and-javascript-umUibEKdDj)
 - Live Site URL: [URL here](https://interactive-rating-component-steel.vercel.app/)
 
 ## My process
