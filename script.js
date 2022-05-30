@@ -19,10 +19,15 @@ numberButtons.forEach((button)=>{
 
 submitButton.addEventListener("click", function(){
 	if(selectedNumber === null){
-		alert("Please choose rating from 1 to 5.");
+		Swal.fire({
+		  icon: 'error',
+		  title: 'Oops...',
+		  text: 'You have to choose rating from 1 to 5.',
+		})
 	}else{
 		displayResult.textContent = selectedNumber;
 		rating.classList.add("hidden");
 		thankYou.classList.remove("hidden");
 	}
 })
+

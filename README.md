@@ -40,6 +40,7 @@ Users should be able to:
 - HTML5
 - CSS
 - JavaScript
+- [SweetAlert2](https://sweetalert2.github.io/) - for beautiful alert box
 
 ## Author
 
